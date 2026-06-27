@@ -1,0 +1,6 @@
+{
+  "name": "Link Clipper & Pinterest Saver",
+  "description": "A smart tool to save, categorize and enrich Pinterest and web links, export them to Word and TXT files, and compile them to a desktop application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
